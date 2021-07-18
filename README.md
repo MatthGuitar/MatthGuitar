@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá! ⌨
 
-<!--
-**MatthGuitar/MatthGuitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus Pereira Cabral. 
 
-Here are some ideas to get you started:
+Sou pós-graduando em Desenvolvimento Web Full Stack pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas) e estou em busca de experiências para ampliar meus conhecimentos como desenvolvedor. Tenho especial interesse pelo Desenvolvimento Front-End (JavaScript, React e UX).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 
+
+- 💻 Desenvolvedor Front-End Freelancer
+- 📍 Belo Horizonte / Minas Gerais
+
+## Tecnologias
+
+- HTML
+- CSS
+- Javascript
+- React
+- Next.JS
+
+#### Entre em contato
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)
