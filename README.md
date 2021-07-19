@@ -1,16 +1,16 @@
-# Olá! ⌨
+# Hey! ⌨
 
-Meu nome é Matheus Pereira Cabral. 
+My name is Matheus Pereira Cabral. 
 
-Sou pós-graduando em Desenvolvimento Web Full Stack pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas) e estou em busca de experiências para ampliar meus conhecimentos como desenvolvedor. Tenho especial interesse pelo Desenvolvimento Front-End (JavaScript, React e UX).
+I'm currently doing a postgraduate course in Full Stack Web Development at the Pontifical Catholic University of Minas Gerais (PUC Minas) and I'm looking for experiences to expand my knowledge as a developer. I am especially interested in Front-End Development (JavaScript, React and UX).
 
 
 ## 
 
-- 💻 Desenvolvedor Front-End Freelancer
+- 💻 Freelancer Front-End Developer
 - 📍 Belo Horizonte / Minas Gerais
 
-## Tecnologias
+## Technologies
 
 - HTML
 - CSS
@@ -18,7 +18,7 @@ Sou pós-graduando em Desenvolvimento Web Full Stack pela Pontifícia Universida
 - React
 - Next.JS
 
-#### Entre em contato
+#### Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pereira-cabral/)](https://www.linkedin.com/in/matheus-pereira-cabral/)
 
