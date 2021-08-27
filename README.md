@@ -7,7 +7,7 @@ I'm currently doing a postgraduate course in Full Stack Web Development at the P
 
 ## 
 
-- 💻 Freelancer Front-End Developer
+- 💻 Front-End Developer
 - 📍 Belo Horizonte / Minas Gerais
 
 ## Technologies
