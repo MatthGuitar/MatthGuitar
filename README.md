@@ -2,8 +2,7 @@
 
 My name is Matheus Pereira Cabral. 
 
-I'm currently doing a postgraduate course in Full Stack Web Development at the Pontifical Catholic University of Minas Gerais (PUC Minas) and I'm looking for experiences to expand my knowledge as a developer. I am especially interested in Front-End Development (JavaScript, React and UX).
-
+I have a History degree and being working as a Front-End developer since 2020. I'm always looking for way to improve my skills as a developer and searching for new experiences to expand my knowledge. I have experience on React and Vue.Js development and special interest on the JavaScript ecosystem, UX Design and accessibility.
 
 ## 
 
@@ -14,9 +13,15 @@ I'm currently doing a postgraduate course in Full Stack Web Development at the P
 
 - HTML
 - CSS
+- SASS
 - Javascript
+- Vue.Js
 - React
 - Next.JS
+- TypeScript
+- React Native
+- Redux
+  
 
 #### Contact
 
